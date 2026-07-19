@@ -1,0 +1,5 @@
+# BitMart 官方域名
+DOMAIN-SUFFIX,bitmart.com
+
+# 关键词匹配（匹配所有包含 bitmart 的域名，包括子域名及可能的相关域名）
+DOMAIN-KEYWORD,bitmart
