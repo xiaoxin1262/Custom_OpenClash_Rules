@@ -1,0 +1,26 @@
+# Kraken & Krak 官方主域名
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,krak.app
+DOMAIN-SUFFIX,kraken.onl
+DOMAIN-SUFFIX,k.xyz
+DOMAIN-SUFFIX,xstocks.com
+DOMAIN-SUFFIX,xstocks.money
+DOMAIN-SUFFIX,xstocks.fi
+
+# kraken.com 子域名
+DOMAIN-SUFFIX,api.kraken.com
+DOMAIN-SUFFIX,blog.kraken.com
+DOMAIN-SUFFIX,support.kraken.com
+DOMAIN-SUFFIX,docs.kraken.com
+DOMAIN-SUFFIX,www.kraken.com
+
+# 其他包含 krak 或 kraken 的已知域名（可能无关，按需保留）
+DOMAIN-SUFFIX,krak.dk
+DOMAIN-SUFFIX,krak.fr
+DOMAIN-SUFFIX,krak0.cc
+DOMAIN-SUFFIX,krakpay.xyz
+DOMAIN-SUFFIX,kraken.net
+
+# 关键词匹配
+DOMAIN-KEYWORD,krak
+DOMAIN-KEYWORD,kraken
