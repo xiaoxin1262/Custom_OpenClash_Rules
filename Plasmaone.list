@@ -1,0 +1,19 @@
+# Plasma One / Plasma 官方域名
+DOMAIN-SUFFIX,plasma-one.tech
+DOMAIN-SUFFIX,plasma.to
+DOMAIN-SUFFIX,one.plasma.to
+DOMAIN-SUFFIX,app.plasma.to
+DOMAIN-SUFFIX,rpc.plasma.to
+DOMAIN-SUFFIX,testnet-rpc.plasma.to
+
+# 第三方服务（Plasma One 可能依赖的服务）
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,knock.app
+DOMAIN-SUFFIX,expo.dev
+DOMAIN-SUFFIX,privy.io
+DOMAIN-SUFFIX,appsflyer.com
+
+# 关键词匹配（匹配所有包含 plasma 或 plasma-one 的域名）
+DOMAIN-KEYWORD,plasma
+DOMAIN-KEYWORD,plasma-one
